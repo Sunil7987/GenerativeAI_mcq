@@ -1,1 +1,9 @@
 [2024-02-07 10:26:14,676] 3 root - INFO -This is my error
+[2024-02-07 15:22:59,147] 952 openai._base_client - INFO -Retrying request to /chat/completions in 0.792235 seconds
+[2024-02-07 15:23:11,476] 952 openai._base_client - INFO -Retrying request to /chat/completions in 1.811377 seconds
+[2024-02-07 15:23:26,734] 1027 httpx - INFO -HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-02-07 15:23:30,492] 1027 httpx - INFO -HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-02-07 15:24:57,929] 1027 httpx - INFO -HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-02-07 15:25:01,403] 1027 httpx - INFO -HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-02-07 15:25:15,243] 1027 httpx - INFO -HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-02-07 15:25:19,378] 1027 httpx - INFO -HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
