@@ -1,7 +1,7 @@
 Login AWS
 Search EC2
 launch Instance
-Update the machine - sudo app-get update / sudo app update / sudo app upgrage -y
+Update the machine - sudo apt-get update / sudo apt update / sudo apt upgrage -y
 sudo app install git curl unzip tar make sudo vim  wget- y
 git clone 'repo'
 sudo app install python3-pip
