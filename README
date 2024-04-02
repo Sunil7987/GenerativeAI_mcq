@@ -4,5 +4,12 @@ launch Instance
 Update the machine - sudo apt-get update / sudo apt update / sudo apt upgrage -y
 sudo apt install git curl unzip tar make sudo vim  wget- y
 git clone 'repo'
-sudo app install python3-pip
-pip install requirements.txt
+sudo apt install python3-pip
+pip install -r requirements.txt
+python3 -m streamlit run StreamlitAPP.py
+For API KEY:-
+touch .env
+ls -a
+vi .env
+press esc then :wq hit enter
+cat .env
